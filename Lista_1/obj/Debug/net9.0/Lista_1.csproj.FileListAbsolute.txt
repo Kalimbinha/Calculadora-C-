@@ -1,0 +1,14 @@
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\bin\Debug\net9.0\Lista_1.exe
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\bin\Debug\net9.0\Lista_1.deps.json
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\bin\Debug\net9.0\Lista_1.runtimeconfig.json
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\bin\Debug\net9.0\Lista_1.dll
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\bin\Debug\net9.0\Lista_1.pdb
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.AssemblyInfoInputs.cache
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.AssemblyInfo.cs
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.csproj.CoreCompileInputs.cache
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.dll
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\refint\Lista_1.dll
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.pdb
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\Lista_1.genruntimeconfig.cache
+C:\Users\fernando.bsilva33\source\repos\Lista_1\Lista_1\obj\Debug\net9.0\ref\Lista_1.dll
