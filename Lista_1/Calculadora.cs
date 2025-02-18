@@ -60,16 +60,16 @@ class Program
             Console.WriteLine(" 4 - Dividir");
             Console.WriteLine(" 5 - Resto da divisão");
             Console.WriteLine(" 6 - Potência");
-            Console.WriteLine(" 0 - Sair");
+            Console.WriteLine(" 0 - Sair\n");
 
-            Console.WriteLine("Digite a operação que deseja realizar: ");
+            Console.WriteLine("Digite a operação que deseja realizar: \n");
             string operacao = Console.ReadLine();
             int operacaoSelecionada;
             bool validOption = int.TryParse(operacao, out operacaoSelecionada);
 
             while (!validOption || operacaoSelecionada < 0 || operacaoSelecionada > 6)
             {
-                Console.WriteLine("Digite uma opção válida: ");
+                Console.WriteLine("Digite uma opção válida: \n");
                 operacao = Console.ReadLine();
                 validOption = int.TryParse(operacao, out operacaoSelecionada);
             }
@@ -198,7 +198,7 @@ class Program
             {
                 Console.WriteLine("Aqui está!  \nDeseja realizar outra operação?");
                 Console.WriteLine(" 0 - Sim");
-                Console.WriteLine(" 1 - Não");
+                Console.WriteLine(" 1 - Não\n\n\n");
 
                 string checagem = Console.ReadLine();
                 int valorCheck;
